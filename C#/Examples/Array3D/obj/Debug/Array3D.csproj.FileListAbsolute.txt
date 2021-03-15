@@ -1,0 +1,7 @@
+E:\Learning Path\C#ASP.NET\Array3D\bin\Debug\Array3D.exe.config
+E:\Learning Path\C#ASP.NET\Array3D\bin\Debug\Array3D.exe
+E:\Learning Path\C#ASP.NET\Array3D\bin\Debug\Array3D.pdb
+E:\Learning Path\C#ASP.NET\Array3D\obj\Debug\Array3D.csprojAssemblyReference.cache
+E:\Learning Path\C#ASP.NET\Array3D\obj\Debug\Array3D.csproj.CoreCompileInputs.cache
+E:\Learning Path\C#ASP.NET\Array3D\obj\Debug\Array3D.exe
+E:\Learning Path\C#ASP.NET\Array3D\obj\Debug\Array3D.pdb

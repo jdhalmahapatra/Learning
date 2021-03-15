@@ -1,0 +1,7 @@
+E:\Learning Path\C#ASP.NET\StingReplace\bin\Debug\StingReplace.exe.config
+E:\Learning Path\C#ASP.NET\StingReplace\bin\Debug\StingReplace.exe
+E:\Learning Path\C#ASP.NET\StingReplace\bin\Debug\StingReplace.pdb
+E:\Learning Path\C#ASP.NET\StingReplace\obj\Debug\StingReplace.csprojAssemblyReference.cache
+E:\Learning Path\C#ASP.NET\StingReplace\obj\Debug\StingReplace.csproj.CoreCompileInputs.cache
+E:\Learning Path\C#ASP.NET\StingReplace\obj\Debug\StingReplace.exe
+E:\Learning Path\C#ASP.NET\StingReplace\obj\Debug\StingReplace.pdb

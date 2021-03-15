@@ -1,0 +1,13 @@
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\bin\Debug\netcoreapp3.1\ConsoleAppUsingCore.exe
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\bin\Debug\netcoreapp3.1\ConsoleAppUsingCore.deps.json
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\bin\Debug\netcoreapp3.1\ConsoleAppUsingCore.runtimeconfig.json
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\bin\Debug\netcoreapp3.1\ConsoleAppUsingCore.runtimeconfig.dev.json
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\bin\Debug\netcoreapp3.1\ConsoleAppUsingCore.dll
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\bin\Debug\netcoreapp3.1\ConsoleAppUsingCore.pdb
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\obj\Debug\netcoreapp3.1\ConsoleAppUsingCore.csprojAssemblyReference.cache
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\obj\Debug\netcoreapp3.1\ConsoleAppUsingCore.AssemblyInfoInputs.cache
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\obj\Debug\netcoreapp3.1\ConsoleAppUsingCore.AssemblyInfo.cs
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\obj\Debug\netcoreapp3.1\ConsoleAppUsingCore.dll
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\obj\Debug\netcoreapp3.1\ConsoleAppUsingCore.pdb
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\obj\Debug\netcoreapp3.1\ConsoleAppUsingCore.csproj.CoreCompileInputs.cache
+E:\Learning Path\C#ASP.NET\ConsoleAppUsingCore\obj\Debug\netcoreapp3.1\ConsoleAppUsingCore.genruntimeconfig.cache

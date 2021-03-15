@@ -1,0 +1,13 @@
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.exe
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.deps.json
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.runtimeconfig.json
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.runtimeconfig.dev.json
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.dll
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.pdb
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.csprojAssemblyReference.cache
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.AssemblyInfoInputs.cache
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.AssemblyInfo.cs
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.csproj.CoreCompileInputs.cache
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.dll
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.pdb
+E:\Learning Path\C#ASP.NET\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.genruntimeconfig.cache
