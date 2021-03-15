@@ -1,0 +1,12 @@
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\bin\Debug\CFFluentAPI.exe.config
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\bin\Debug\CFFluentAPI.exe
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\bin\Debug\CFFluentAPI.pdb
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\bin\Debug\EntityFramework.dll
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\bin\Debug\EntityFramework.xml
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\obj\Debug\CFFluentAPI.csprojAssemblyReference.cache
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\obj\Debug\CFFluentAPI.csproj.CoreCompileInputs.cache
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\obj\Debug\CFFluentAPI.csproj.CopyComplete
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\obj\Debug\CFFluentAPI.exe
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CFFluentAPI\obj\Debug\CFFluentAPI.pdb

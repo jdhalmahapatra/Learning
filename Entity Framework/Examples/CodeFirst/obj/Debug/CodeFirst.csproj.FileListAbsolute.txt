@@ -1,0 +1,12 @@
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\bin\Debug\CodeFirst.exe.config
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\bin\Debug\CodeFirst.exe
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\bin\Debug\CodeFirst.pdb
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\bin\Debug\EntityFramework.dll
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\bin\Debug\EntityFramework.xml
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\obj\Debug\CodeFirst.exe
+E:\Learning Path\C#ASP.NET\EntityFramework\EntityFrameworkCompleteTutorial\CodeFirst\obj\Debug\CodeFirst.pdb
