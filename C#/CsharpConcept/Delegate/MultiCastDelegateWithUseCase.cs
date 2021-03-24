@@ -14,7 +14,7 @@ namespace Delegate
     {
         static void Main(string[] args)
         {
-            Bank[] bank = new Bank[5];
+            Bank[] bank = new Bank[3];
             bank[0] = new Bank {
                 BankCode = 100,
                 BankName = "HDFC Ltd"
@@ -41,13 +41,13 @@ namespace Delegate
             }
             if (bank[1].BankCode == 102)
             {
-                Console.WriteLine("1. {0}, BankCode = {1} below are the available department", bank[1].BankName, bank[1].BankCode);
+                Console.WriteLine("2. {0}, BankCode = {1} below are the available department", bank[1].BankName, bank[1].BankCode);
                 bankDel -= Bank.HomeLoanDept;
                 bankDel();
             }
             if (bank[2].BankCode == 112)
             {
-                Console.WriteLine("1. {0}, BankCode = {1} below are the available department", bank[2].BankName, bank[2].BankCode);
+                Console.WriteLine("3. {0}, BankCode = {1} below are the available department", bank[2].BankName, bank[2].BankCode);
                 bankDel -= Bank.HomeLoanDept;
                 bankDel -= Bank.MortgageLoanDept;
                 bankDel();
