@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "apB55YY4Y+IqutTHRvF2/akeF+AVbXGFd0KLMYShEplVC0TKMh9OGF2SbTTvVzwW4ZvpzMq/QIGFewvs+wVMmQ==",
+  "success": true,
+  "projectFilePath": "E:\\Learning Path\\Learning\\AWS\\AWS-S3\\AWS\\AWS-S3-Full\\AWS-S3-Full.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jyotiraditya.d\\.nuget\\packages\\awssdk.core\\3.5.3.7\\awssdk.core.3.5.3.7.nupkg.sha512",
+    "C:\\Users\\jyotiraditya.d\\.nuget\\packages\\awssdk.s3\\3.5.9.7\\awssdk.s3.3.5.9.7.nupkg.sha512"
+  ],
+  "logs": []
+}

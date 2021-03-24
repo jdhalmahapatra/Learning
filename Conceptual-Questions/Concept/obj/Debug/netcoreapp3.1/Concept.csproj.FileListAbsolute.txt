@@ -1,0 +1,13 @@
+E:\Learning Path\Learning\Conceptual-Questions\Concept\bin\Debug\netcoreapp3.1\Concept.exe
+E:\Learning Path\Learning\Conceptual-Questions\Concept\bin\Debug\netcoreapp3.1\Concept.deps.json
+E:\Learning Path\Learning\Conceptual-Questions\Concept\bin\Debug\netcoreapp3.1\Concept.runtimeconfig.json
+E:\Learning Path\Learning\Conceptual-Questions\Concept\bin\Debug\netcoreapp3.1\Concept.runtimeconfig.dev.json
+E:\Learning Path\Learning\Conceptual-Questions\Concept\bin\Debug\netcoreapp3.1\Concept.dll
+E:\Learning Path\Learning\Conceptual-Questions\Concept\bin\Debug\netcoreapp3.1\Concept.pdb
+E:\Learning Path\Learning\Conceptual-Questions\Concept\obj\Debug\netcoreapp3.1\Concept.csprojAssemblyReference.cache
+E:\Learning Path\Learning\Conceptual-Questions\Concept\obj\Debug\netcoreapp3.1\Concept.AssemblyInfoInputs.cache
+E:\Learning Path\Learning\Conceptual-Questions\Concept\obj\Debug\netcoreapp3.1\Concept.AssemblyInfo.cs
+E:\Learning Path\Learning\Conceptual-Questions\Concept\obj\Debug\netcoreapp3.1\Concept.csproj.CoreCompileInputs.cache
+E:\Learning Path\Learning\Conceptual-Questions\Concept\obj\Debug\netcoreapp3.1\Concept.dll
+E:\Learning Path\Learning\Conceptual-Questions\Concept\obj\Debug\netcoreapp3.1\Concept.pdb
+E:\Learning Path\Learning\Conceptual-Questions\Concept\obj\Debug\netcoreapp3.1\Concept.genruntimeconfig.cache
